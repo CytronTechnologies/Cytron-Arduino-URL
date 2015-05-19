@@ -14,10 +14,10 @@
                "architecture":"avr",
                "version":"1.0.0",
                "category":"Cytron",
-               "url":"https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-1.0.0.tar.gz",
-               "archiveFileName":"cytron-1.0.0.tar.gz",
-               "checksum":"SHA-256:31f87b91fb9437edba8ce27e91cdc905d0930dee5fe39b8eb83fd6aa42b1be7f",
-               "size":"11564",
+               "url":"https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-1.0.0.zip",
+               "archiveFileName":"cytron-1.0.0.zip",
+               "checksum":"SHA-256:5f2db8bc128c5e7f03946081fe766dcb9dd0c06b3537cca06358049cc51f90bf",
+               "size":"3214",
                "help":{
                   "online":"http://forum.cytron.com.my/"
                },
