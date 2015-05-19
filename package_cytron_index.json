@@ -16,6 +16,7 @@
                "category":"Cytron",
                "url":"https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-1.0.0.rar",
                "archiveFileName":"cytron-1.0.0.rar",
+               "checksum":"SHA-256:4e72d4267d9a8d86874edcd021dc661854a5136c0eed947a6fe10366bc51e373",
                "size":"2912",
                "help":{
                   "online":"http://forum.cytron.com.my/"
@@ -41,8 +42,7 @@
                   }
                ]
             }
-         ],
-         "tools":[]
+         ]
       }
    ]
 }
