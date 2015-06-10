@@ -1,44 +1,96 @@
 {
-   "packages":[
+   "packages": [
       {
-         "name":"cytron",
-         "maintainer":"Cytron",
-         "websiteURL":"http://www.cytron.com.my/",
-         "email":"support@cytron.com.my",
-         "help":{
-            "online":"http://forum.cytron.com.my/"
+         "name": "cytron",
+         "maintainer": "Cytron",
+         "websiteURL": "http://www.cytron.com.my/",
+         "email": "support@cytron.com.my",
+         "help": {
+            "online": "http://forum.cytron.com.my/"
          },
-         "platforms":[
+         "platforms": [
             {
-               "name":"Cytron AVR Boards",
-               "architecture":"avr",
-               "version":"1.0.0",
-               "category":"Cytron",
-               "url":"https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-1.0.0.zip",
-               "archiveFileName":"cytron-1.0.0.zip",
-               "checksum":"SHA-256:67cdfa22c33d9757fac4086f9c8df3802d71d11ffa9755c8ad428b66b03e77ec",
-               "size":"2609344",
+               "name": "Cytron AVR Boards",
+               "architecture": "avr",
+               "version": "1.0.0",
+               "category": "Cytron",
+               "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-avr.zip",
+               "archiveFileName": "cytron-avr.zip",
+               "checksum": "SHA-256:b65d816e4fb3afacfd48f998b9f62c6d718e3cdbf1ab1fc438674c94f33996b",
+               "size": "2330002",
                "help":{
-                  "online":"http://forum.cytron.com.my/"
+                  "online": "http://forum.cytron.com.my/"
                },
                "boards":[
                   {
-                     "name":"CT UNO"
+                     "name": "CT UNO"
                   },
                   {
-                     "name":"Cuteduino"
+                     "name": "Cuteduino"
                   }
                ],
                "toolsDependencies":[
                   {
-                     "packager":"arduino",
-                     "name":"avr-gcc",
-                     "version":"4.8.1-arduino5"
+                     "packager": "arduino",
+                     "name": "avr-gcc",
+                     "version": "4.8.1-arduino5"
                   },
                   {
-                     "packager":"arduino",
-                     "name":"avrdude",
-                     "version":"6.0.1-arduino5"
+                     "packager": "arduino",
+                     "name": "avrdude",
+                     "version": "6.0.1-arduino5"
+                  },
+                  {
+                     "packager": "digistump",
+                     "name": "avr-dummy",
+                     "version": "avr-dummy"
+                  },
+                  {
+                     "packager": "digistump",
+                     "name": "micronucleus",
+                     "version": "1.11"
+                  }
+               ]
+            }
+         ]
+         "tools": [
+            {
+               "name": "avr-dummy",
+               "version": "avr-dummy",
+               "systems": [
+                  {
+                     "host": "i686-mingw32",
+                     "archiveFileName": "avr-dummy-windows.zip",
+                     "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-windows.zip",
+                     "checksum": "SHA-256:3d899c488696183fd5315fea15c3ef75ec245dede9037a5f8273cd5b2ab160",
+                     "size": "356036"
+                  },
+                  {
+                     "host": "x86_64-apple-darwin",
+                     "archiveFileName": "avr-dummy-darwin.zip",
+                     "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-darwin.zip",
+                     "checksum": "SHA-256:5657248df5e017e8c6ff49a6afbf25282a24da2c6743e0fb7620e7013b968d6",
+                     "size": "6679"
+                  }
+               ]
+            },
+            {
+               "name": "micronucleus",
+               "version": "1.11",
+               "systems": [
+                  {
+                     "host": "i686-mingw32",
+                     "archiveFileName": "micronucleus-1.11-windows.zip",
+                     "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/micronucleus-1.11-windows.zip",
+                     "checksum": "SHA-256:448bfcf44e8a473790e8eb74f1d5992240852b2637880d63eb37a6aa6e8032",
+                     "size": "13005"
+                  },
+                  {
+                     "host": "x86_64-apple-darwin",
+                     "archiveFileName": "micronucleus-1.11-darwin.zip",
+                     "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/micronucleus-1.11-darwin.zip",
+                     "checksum": "SHA-256:c38aa8aae936ae92c8655c364ed71519f4f4396d661f2a96c63ab7e881eef7",
+                     "size": "41606"
                   }
                ]
             }
