@@ -29,7 +29,7 @@
                      "name": "Cuteduino"
                   }
                ],
-               "toolsDependencies":[
+               "toolsDependencies": [
                   {
                      "packager": "arduino",
                      "name": "avr-gcc",
@@ -52,7 +52,7 @@
                   }
                ]
             }
-         ]
+         ],
          "tools": [
             {
                "name": "avr-dummy",
