@@ -36,14 +36,14 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "cytron",
-              "name": "avr-dummy",
-              "version": "avr-dummy"
+              "packager":"arduino",
+              "name":"avrdude",
+              "version":"6.0.1-arduino5"
             },
             {
               "packager": "cytron",
-              "name": "micronucleus",
-              "version": "1.11"
+              "name": "avr-dummy",
+              "version": "avr-dummy"
             }
           ]
         }
@@ -56,36 +56,16 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "avr-dummy-windows.tar.bz2",
-              "url": "https://github.com/boneskull/digistump-board-index/releases/download/avr-dummy/avr-dummy-windows.tar.bz2",
-              "checksum": "SHA-256:b9bedc5f730ec0549ec2c236280e1971c0b4c21e48220a795645be11d5584bfc",
-              "size": "351933"
+              "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-windows.tar.bz2",
+              "checksum": "SHA-1:5c75d9135e78c16ec4ea91cb6b1da8528a97",
+              "size": "365764"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "avr-dummy-darwin.tar.bz2",
-              "url": "https://github.com/boneskull/digistump-board-index/releases/download/avr-dummy/avr-dummy-darwin.tar.bz2",
-              "checksum": "SHA-256:6a8343d456149d7f9378f3f9de72417afabe0819d142d666f8c65050bbc95d8c",
-              "size": "6750"
-            }
-          ]
-        },
-        {
-          "name": "micronucleus",
-          "version": "1.11",
-          "systems": [
-            {
-              "host": "x86_64-apple-darwin",
-              "archiveFileName": "micronucleus-1.11-darwin.tar.bz2",
-              "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11/micronucleus-1.11-darwin.tar.bz2",
-              "checksum": "SHA-256:262e0cc6977f95ae2d2b76254ac26c2148f603a315927cc424ec4e52ffd783e8",
-              "size": "38000"
-            },
-            {
-              "host": "i686-mingw32",
-              "archiveFileName": "micronucleus-1.11-windows.tar.bz2",
-              "url": "https://github.com/boneskull/digistump-board-index/releases/download/micronucleus-1.11/micronucleus-1.11-windows.tar.bz2",
-              "checksum": "SHA-256:4e8c423fde901071259d679c3aaef97cf57c5229286057e40b73ffd4daffbf7a",
-              "size": "13224"
+              "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-darwin.tar.bz2",
+              "checksum": "SHA-1:2c553e57963be4e18b4c633f8fc5ca1d4214fa24",
+              "size": "44248"
             }
           ]
         }
