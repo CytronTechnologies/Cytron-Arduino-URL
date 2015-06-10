@@ -2,37 +2,31 @@
   "packages": [
     {
       "name": "digistump",
-      "maintainer": "Christopher Hiller",
-      "websiteURL": "https://github.com/boneskull/digistump-board-index",
-      "email": "boneskull@boneskull.com",
+      "maintainer": "Cytron",
+      "websiteURL": "http://www.cytron.com.my",
+      "email": "support@cytron.com.my",
       "help": {
-        "online": "https://github.com/boneskull/digistump-board-index/issues"
+        "online": "http://forum.cytron.com.my/"
       },
       "platforms": [
         {
-          "name": "Digistump AVR Boards",
+          "name": "Cytron AVR Boards",
           "architecture": "avr",
           "version": "1.5.4",
-          "category": "Digistump",
-          "url": "https://github.com/boneskull/digistump-board-index/releases/download/v1.5.4/digistump-avr.tar.bz2",
-          "archiveFileName": "digistump-avr.tar.bz2",
-          "checksum": "SHA-256:19a0afe056a4d4d713db6dacd3bb6311364a7a88298417378cec71749076e1ca",
-          "size": "1812199",
+          "category": "Cytron",
+          "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-avr.zip",
+          "archiveFileName": "cytron-avr.zip",
+          "checksum": "SHA-256:b65d816e4fb3afacfd48f998b9f62c6d718e3cdbf1ab1fc438674c94f33996b",
+          "size": "2330002",
           "help": {
-            "online": "https://github.com/boneskull/digistump-board-index/issues"
+            "online": "http://forum.cytron.com.my/"
           },
           "boards": [
             {
-              "name": "Digispark (Default - 16.5mhz)"
+              "name": "Cuteduino"
             },
             {
-              "name": "Digispark Pro (Default 16 Mhz)"
-            },
-            {
-              "name": "Digispark Pro (16 Mhz) (32 byte buffer)"
-            },
-            {
-              "name": "Digispark Pro (16 Mhz) (64 byte buffer)"
+              "name": "CT UNO"
             }
           ],
           "toolsDependencies": [
