@@ -14,10 +14,10 @@
                "architecture": "avr",
                "version": "1.0.0",
                "category": "Cytron",
-               "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-avr.zip",
-               "archiveFileName": "cytron-avr.zip",
-               "checksum": "SHA-256:b65d816e4fb3afacfd48f998b9f62c6d718e3cdbf1ab1fc438674c94f33996b",
-               "size": "2330002",
+               "url": "https://github.com/boneskull/digistump-board-index/releases/download/v1.5.4/digistump-avr.tar.bz2",
+               "archiveFileName": "digistump-avr.tar.bz2",
+               "checksum": "SHA-256:19a0afe056a4d4d713db6dacd3bb6311364a7a88298417378cec71749076e1ca",
+               "size": "1812199",
                "help":{
                   "online": "http://forum.cytron.com.my/"
                },
