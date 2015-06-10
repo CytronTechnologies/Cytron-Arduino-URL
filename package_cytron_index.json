@@ -16,7 +16,7 @@
           "category": "Cytron",
           "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/cytron-avr.tar.bz2",
           "archiveFileName": "cytron-avr.tar.bz2",
-          "checksum": "SHA-1:a213d4b368f923e3ce7f33dab6b68723eed2408b",
+          "checksum": "SHA-256:385456F2172CF028120F773CDB3424BD2AB136EDD216DE2527FED74DE9BCA075",
           "size": "1761873",
           "help": {
             "online": "http://forum.cytron.com.my/"
@@ -57,14 +57,16 @@
               "host": "i686-mingw32",
               "archiveFileName": "avr-dummy-windows.tar.bz2",
               "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-windows.tar.bz2",
-              "checksum": "SHA-256:a11da31cba13c9f51f8c6e282c3d9c0b56064498237492bff357ef71c51c",
+              "checksum": "SHA-256:A11DA301CBA13C9F510F8C6E282C3D9C00B560644982370492BFF357EF71C51C",
+
               "size": "365764"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "avr-dummy-darwin.tar.bz2",
               "url": "https://raw.githubusercontent.com/IdrisCytron/Cytron-Arduino-URL/master/avr-dummy-darwin.tar.bz2",
-              "checksum": "SHA-256:7e2ad9b4abe8b3a3f8f9dd174304b743260ed2dc3398d402bf28f350406c5d",
+              "checksum": "SHA-256:7E2AD9B4ABE8B3A3F8F9DD1743004B743260ED2DC3398D4002BF28F350406C5D",
+
               "size": "44248"
             }
           ]
