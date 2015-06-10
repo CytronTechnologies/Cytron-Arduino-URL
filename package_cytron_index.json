@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "digistump",
+      "name": "cytron",
       "maintainer": "Cytron",
       "websiteURL": "http://www.cytron.com.my",
       "email": "support@cytron.com.my",
@@ -36,12 +36,12 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "digistump",
+              "packager": "cytron",
               "name": "avr-dummy",
               "version": "avr-dummy"
             },
             {
-              "packager": "digistump",
+              "packager": "cytron",
               "name": "micronucleus",
               "version": "1.11"
             }
