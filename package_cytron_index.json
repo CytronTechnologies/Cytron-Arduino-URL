@@ -16,7 +16,7 @@
           "category": "Cytron",
           "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-Arduino-URL/master/cytron-avr.tar.bz2",
           "archiveFileName": "cytron-avr.tar.bz2",
-          "checksum": "SHA-256:DE319A561ABEFCC0062E40F9D41E3ABCAA398D74E11BBDAE070E6E8153ED88B9",
+          "checksum": "SHA-256:E29F0B25855AEFAE4FDA91334242ADC7C9E052AEC83B8D60BEAC88EAEDDC54FF",
           "size": "1766217",
           "help": {
             "online": "http://forum.cytron.com.my/"
@@ -26,7 +26,7 @@
               "name": "Cuteduino"
             },
             {
-              "name": "CT UNO"
+              "name": "Maker UNO"
             }
           ],
           "toolsDependencies": [
