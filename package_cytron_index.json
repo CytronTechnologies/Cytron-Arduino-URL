@@ -12,7 +12,7 @@
         {
           "name": "Cytron AVR Boards",
           "architecture": "avr",
-          "version": "1.5.4",
+          "version": "1.6.20",
           "category": "Cytron",
           "url": "https://raw.githubusercontent.com/CytronTechnologies/Cytron-Arduino-URL/master/cytron-avr.tar.bz2",
           "archiveFileName": "cytron-avr.tar.bz2",
