@@ -3,10 +3,10 @@
     {
       "name": "cytron",
       "maintainer": "Cytron",
-      "websiteURL": "http://www.cytron.com.my",
+      "websiteURL": "http://www.cytron.io",
       "email": "support@cytron.com.my",
       "help": {
-        "online": "http://forum.cytron.com.my/"
+        "online": "http://forum.cytron.io/"
       },
       "platforms": [
         {
@@ -19,7 +19,7 @@
           "checksum": "SHA-256:77B5FB1523FF4DAFB8CEF0A893BEC6117CC7E9DC71D7CCA8DF5622353B1BA7F3",
           "size": "1766217",
           "help": {
-            "online": "http://forum.cytron.com.my/"
+            "online": "http://forum.cytron.io/"
           },
           "boards": [
             {
